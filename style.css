@@ -1,0 +1,14 @@
+.body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.sample {
+    background-color: rebeccapurple;
+    height: 250px;
+    width: 500px;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 5px;
+}
